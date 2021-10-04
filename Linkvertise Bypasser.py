@@ -47,4 +47,3 @@ File.write(f"{link}" + "\n")
 system("pause >nul")
 
 exit()
-File.exit()
